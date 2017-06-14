@@ -19,3 +19,9 @@ Consider using a [virtualenv](https://virtualenv.pypa.io/en/stable/userguide/#us
 Runtime
 ---
 Either use `PYTHONPATH=path/to/here python` or a symlink to this root to import the package.
+
+Content
+---
+
++ `digits/` : package source
++ `jobs/` : main search script to be submitted as a cluster job

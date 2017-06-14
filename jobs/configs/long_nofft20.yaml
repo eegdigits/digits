@@ -1,0 +1,6 @@
+config:
+    avg_width: 1
+    subsample_width : 20
+    t0: 201
+    t1: 1200
+    fft: False

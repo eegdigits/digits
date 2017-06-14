@@ -1,0 +1,10 @@
+config:
+    avg_width: 1
+    subsample_width : 4
+    t0: 201
+    t1: 1200
+    fft: True
+    power: True
+    fmin:
+    fmax: 80
+    size: 40
