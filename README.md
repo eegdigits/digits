@@ -14,7 +14,7 @@ Use pip or you OS's package manager to install dependencies.
 pip install -r requirements.txt --user
 ```
 
-Consider using a virtualenv: [virtualenv](https://virtualenv.pypa.io/en/stable/userguide/#usage).
+Consider using a [virtualenv](https://virtualenv.pypa.io/en/stable/userguide/#usage).
 
 Runtime
 ---
